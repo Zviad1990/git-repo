@@ -42,3 +42,6 @@ INSERT INTO products (name, description )
 VALUEs(null, null)//
 
 
+
+-- some comments
+
